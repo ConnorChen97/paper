@@ -17,5 +17,4 @@
 
 [Spark: Cluster Computing with Working Sets](./spark.pdf)
 
-[Designing Data-Intensive Applications](./ddia.pdf)  
-[DDIA中文翻译](./ddia-cn.pdf)
+[DDIA中文翻译](https://github.com/Vonng/ddia)
